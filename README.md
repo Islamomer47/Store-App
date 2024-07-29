@@ -28,5 +28,5 @@ Store App is a React-based web application designed to showcase and manage produ
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/store-app.git
+   git clone https://github.com/Islamomer47/Store-App.git
    cd store-app
