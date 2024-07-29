@@ -25,8 +25,3 @@ Store App is a React-based web application designed to showcase and manage produ
   - Fake Store API (local server)
 
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Islamomer47/Store-App.git
-   cd store-app
