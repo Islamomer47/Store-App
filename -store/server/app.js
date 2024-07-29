@@ -31,7 +31,7 @@ app.get("/api/products/:id", async (req, res) => {
   }
 });
 
-// Serve React App
+// React App
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "client", "dist", "index.html"));
 });
